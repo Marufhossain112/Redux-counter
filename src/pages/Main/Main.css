@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main > div {
+  display: flex;
+  flex-direction: column;
+}
+.main > div p {
+  text-align: center;
+}
